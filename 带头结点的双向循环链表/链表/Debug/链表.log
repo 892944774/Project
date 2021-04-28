@@ -1,0 +1,3 @@
+﻿Debug\DHCList.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+DHCL.obj : error LNK2019: 无法解析的外部符号 _TestDHCList，该符号在函数 _main 中被引用
+E:\代码\C++\链表\Debug\链表.exe : fatal error LNK1120: 1 个无法解析的外部命令
